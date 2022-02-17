@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CatIO</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="tab_my_cat">我的猫</string>
+    <string name="tab_cat_list">猫目录</string>
+</resources>
